@@ -1,0 +1,14 @@
+BANKING TRANSACTION EXCEPTION HANDLING
+Initial balance: Rs. 500
+
+Test 1 - Successful withdrawal:
+Withdrawal of Rs. 150 completed successfully.
+Balance: Rs. 350
+
+Test 2 - Invalid amount:
+Invalid amount: Transaction amount must be greater than zero.
+Balance after failed transaction: Rs. 350
+
+Test 3 - Insufficient funds:
+Insufficient funds: Insufficient funds for this withdrawal.
+Balance after failed transaction: Rs. 350
