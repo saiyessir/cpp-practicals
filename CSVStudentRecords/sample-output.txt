@@ -1,0 +1,18 @@
+Student records written to students.csv.
+
+STUDENT RECORDS
+ID	Name	Marks
+101	Aarav	85.5
+102	Diya	91
+103	Rohan	78.5
+
+FILE POSITION DEMONSTRATION
+tellg() at start: 0
+Read characters: AB
+tellg() after reading 2 characters: 2
+tellg() after seekg(3): 3
+Character read at position 3: D
+tellp() at end: 5
+tellp() after seekp(2): 2
+tellp() after writing one character: 3
+Updated position_demo.txt content: ABXDE
