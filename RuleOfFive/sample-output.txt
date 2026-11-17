@@ -1,0 +1,35 @@
+--- Default Constructor ---
+Default constructor called
+Array: Empty
+
+--- Parameterized Constructor ---
+Parameterized constructor called
+Array: 10 10 10
+
+--- Copy Constructor ---
+Copy constructor called
+Array: 10 10 10
+
+--- Copy Assignment ---
+Default constructor called
+Copy assignment operator called
+Array: 10 10 10
+
+--- Move Constructor ---
+Move constructor called
+Array: 10 10 10
+Source after move: Array: Empty
+
+--- Move Assignment ---
+Parameterized constructor called
+Move assignment operator called
+Array: 10 10 10
+Source after move: Array: Empty
+
+Objects will now be destroyed automatically.
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
