@@ -1,0 +1,15 @@
+GENERIC STACK USING TEMPLATES
+
+Integer stack top: 20
+Popped integer: 20
+Integer stack top now: 10
+
+Float stack top: 4.75
+Popped float: 4.75
+
+String stack top: C++ Templates
+Popped string: C++ Templates
+
+Empty stack test:
+Is empty: Yes
+Handled safely: Cannot pop: stack is empty.
