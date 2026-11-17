@@ -1,0 +1,13 @@
+=== STUDENT DETAILS ===
+Name: Aarav Sharma
+Age: 20
+Student ID: STU101
+Course: B.Sc. Computer Science
+
+=== GRADUATE STUDENT DETAILS ===
+Name: Meera Patel
+Age: 24
+Student ID: GRD205
+Course: M.Sc. Computer Science
+Research Topic: Artificial Intelligence
+Supervisor: Dr. Rao
