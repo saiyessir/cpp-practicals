@@ -1,0 +1,21 @@
+Enter your name: Alex
+Enter your age: 20
+Enter two integers: 12 4
+Enter your grade letter: 
+--- Student Details ---
+Name: Alex
+Age: 20
+Grade: A
+Is student: Yes
+Constant PI: 3.14159
+
+--- Arithmetic Operators ---
+Addition: 16
+Subtraction: 8
+Multiplication: 48
+Division: 3
+
+--- Relational and Logical Operators ---
+Age is 18 or above: Yes
+First number is greater: Yes
+Both numbers are positive: Yes
