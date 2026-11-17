@@ -1,0 +1,19 @@
+===== ILLUSTRATIVE CONSOLE SESSION =====
+2
+Enter student ID to search: 1002
+Record found: 1002 | Diya | Information Technology | 94 | Grade: A
+
+3
+ID        Name                  Course              Marks     Grade
+-------------------------------------------------------------------
+1001      Aarav                 Computer Science    88.5      B
+1002      Diya                  Information Technology94.0      A
+1003      Rohan                 Electronics         76.0      C
+
+4
+Records saved to students.csv.
+
+5
+Records saved. Goodbye!
+
+Note: This is an example session using the sample students.csv data.
