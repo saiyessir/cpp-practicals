@@ -1,0 +1,19 @@
+1. UNIQUE OWNERSHIP (unique_ptr)
+Value: 42
+Array: 10 20 30
+Unique resources have left scope.
+
+2. SHARED OWNERSHIP (shared_ptr)
+Creating shared resource: Monthly report
+Owners initially: 1
+Owners after sharing: 3
+Dashboard is using Monthly report
+Logger is using Monthly report
+Both parts have finished using the resource.
+Releasing shared resource: Monthly report
+Shared owners have left scope.
+
+3. REPEATED ALLOCATION DEMO
+Completed 1000 unique_ptr allocations. Sum: 499500
+
+Program finished. No manual delete was needed.
